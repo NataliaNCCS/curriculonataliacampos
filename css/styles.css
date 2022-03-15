@@ -1,0 +1,170 @@
+body {
+    background-color: #FEF5ED;
+    font-family: 'Urbanist', sans-serif;
+    color: #362706;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+p {
+    color:#394121;
+    font-family: 'Urbanist', sans-serif;
+    font-size: larger;
+}
+
+hr {
+    background-color: inherit;
+    opacity: inherit;
+    height: 0px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ACB992;
+    border-width: 10px;
+    width: 5%;
+    margin: 2rem auto 2rem auto;
+}
+
+a {
+    color:#362706;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #60684a;
+}
+
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* TOP CONTAINER */
+
+.topcontainer {
+    background-color: #E9E5D6 ;
+}
+
+.nuvemtop {
+    height: 6.5rem;
+    width: 12.5rem;
+    margin: 2rem auto auto 70%
+}
+
+.eusouanatalia {
+    text-align: center;
+    margin: 7rem auto 7rem auto;
+}
+
+.topcontainerttl {
+    font-family:'Amatic SC', cursive;
+    color: #394121;
+    font-weight: bold;
+    font-size: 5.5rem;
+    line-height: 1;
+}
+
+.topcontainertxt {
+    font-family: 'Urbanist', sans-serif;
+    color: #394121;
+    font-weight: normal;
+    font-size: 1.5rem;
+}
+
+.nuvembottomalign {
+    text-align: end;
+}
+
+.nuvembottom {
+    height: 6.5rem;
+    width: 12.5rem;
+    margin: auto 70% 2rem auto; 
+}
+
+.mountainimg {
+    margin: auto auto 2rem auto;
+    width: 40rem;
+}
+
+/* PERFIL */
+
+.perfil {
+    margin: 4rem auto 5rem auto
+}
+.fotoperfil {
+    width: 15.5rem;
+    height: 15.5rem;
+    margin-bottom: 2rem;
+}
+
+.profiletxt {
+    font-size: 1.4rem;
+    line-height: 1.5;
+}
+
+/* SKILLS */
+.skills {
+    margin: 4rem auto 4rem auto;
+}
+
+/* coloring carousel button / chevron */
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23ACB992' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23ACB992' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel {
+    height: 25rem;
+    margin: 5rem auto 4rem auto;
+}
+
+.logoimg {
+    width: 10%;
+    height: 10%;
+    margin: 3rem auto 2rem auto;
+}
+
+.logo:hover img {
+    transform: scale(1.1, 1.1);
+}
+
+.stars {
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+/* CONTACT ME */
+
+.contactme {
+    margin: 4rem auto 5rem auto;
+}
+
+/* BOTTOM CONTAINER */
+
+.bottomcontainer {
+    background-color: #ACB992;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.footerlink {
+    font-size: 1.4rem;
+}
+
+.copyright {
+    font-size:0.75rem;
+}
+
