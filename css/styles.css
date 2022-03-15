@@ -59,7 +59,8 @@ a:hover {
 .nuvemtop {
     height: 6.5rem;
     width: 12.5rem;
-    margin: 2rem 0 0 50%;
+    max-width: 100%;
+    margin: 2rem 0 0 55%;
 }
 
 .eusouanatalia {
