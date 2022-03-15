@@ -3,7 +3,7 @@ body {
     font-family: 'Urbanist', sans-serif;
     color: #362706;
     text-align: center;
-}
+} 
 
 h1 {
     font-size: 2rem;
@@ -52,12 +52,13 @@ a:hover {
 
 .topcontainer {
     background-color: #E9E5D6 ;
+    margin: 0;
 }
 
 .nuvemtop {
     height: 6.5rem;
     width: 12.5rem;
-    margin: 2rem auto auto 70%
+    margin: 2rem 0 0 60%;
 }
 
 .eusouanatalia {
@@ -87,7 +88,7 @@ a:hover {
 .nuvembottom {
     height: 6.5rem;
     width: 12.5rem;
-    margin: auto 70% 2rem auto; 
+    margin: auto 60% 2rem auto; 
 }
 
 .mountainimg {
