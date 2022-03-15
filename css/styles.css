@@ -54,11 +54,14 @@ a:hover {
     background-color: #E9E5D6 ;
 }
 
+.nuvemalign {
+    text-align: end;
+}
+
 .nuvemtop {
     height: 6.5rem;
     width: 12.5rem;
-    max-width: 100%;
-    margin: 2rem 0 0 55%;
+    margin: 2rem 15% auto auto;
 }
 
 .eusouanatalia {
@@ -81,14 +84,10 @@ a:hover {
     font-size: 1.5rem;
 }
 
-.nuvembottomalign {
-    text-align: end;
-}
-
 .nuvembottom {
     height: 6.5rem;
     width: 12.5rem;
-    margin: auto 55% 2rem auto; 
+    margin: auto 75% 2rem 15%; 
 }
 
 .mountainimg {
