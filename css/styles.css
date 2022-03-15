@@ -52,6 +52,7 @@ a:hover {
 
 .topcontainer {
     background-color: #E9E5D6 ;
+    overflow: hidden;
 }
 
 .nuvemalign {
