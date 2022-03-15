@@ -52,13 +52,14 @@ a:hover {
 
 .topcontainer {
     background-color: #E9E5D6 ;
-    margin: 0;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .nuvemtop {
     height: 6.5rem;
     width: 12.5rem;
-    margin: 2rem 5% 0 55%;
+    margin: 2rem 0 0 50%;
 }
 
 .eusouanatalia {
